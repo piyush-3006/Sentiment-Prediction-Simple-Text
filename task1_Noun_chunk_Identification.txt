@@ -1,0 +1,59 @@
+Recommender Systems are software tools and techniques providing suggestions for
+items to be of use to a user. The suggestions provided are aimed at supporting their
+users in various decision-making processes, such as what items to buy, what music
+Development of recommender systems is a multi-disciplinary effort which involves
+experts from various fields such as Artificial intelligence, Human Computer
+Interaction, Information Technology, Data Mining, Statistics, Adaptive User Interfaces,
+Decision Support Systems, Marketing, or Consumer Behavior. Recommender
+Systems Handbook: A Complete Guide for Research Scientists and Practitioners
+aims to impose a degree of order upon this diversity by presenting a coherent and
+unified repository of recommender systems major concepts, theories, methodologies,
+trends, challenges and applications. This is the first comprehensive book which
+is dedicated entirely to the field of recommender systems and covers several aspects
+of the major techniques. Its informative, factual pages will provide researchers, stuclassical
+methods, as well as extensions and novel approaches that were recently introduced.
+The book consists of five parts: techniques, applications and evaluation of
+recommender systems, interacting with recommender systems, recommender systems
+and communities, and advanced algorithms. The first part presents the most
+popular and fundamental techniques used nowadays for building recommender systems,
+such as collaborative filtering, content-based filtering, data mining methods
+and context-aware methods. The second part starts by surveying techniques and approaches
+that have been used to evaluate the quality of the recommendations. Then
+deals with the practical aspects of designing recommender systems, it describes design
+and implementation consideration, setting guidelines for the selection of the
+vii
+to listen, or what news to read. Recommender systems have proven to be valuable
+means for online users to cope with the information overload and have
+Correspondingly, various techniques for recommendation generation have been
+proposed and during the last decade, many of them have also been successfully
+deployed in commercial environments.
+become one of the most powerful and popular tools in electronic commerce.
+dents and practitioners in industry with a comprehensive, yet concise and convenient
+reference source to recommender systems. The book describes in detail the
+viii Preface
+more suitable algorithms. The section continues considering aspects that may affect
+the design and finally, it discusses methods, challenges and measures to be applied
+for the evaluation of the developed systems. The third part includes papers dealing
+with a number of issues related to the presentation, browsing, explanation and visualization
+of the recommendations, and techniques that make the recommendation
+process more structured and conversational.
+The fourth part is fully dedicated to a rather new topic, which is however rooted in
+the core idea of a collaborative recommender, i.e., exploiting user generated content
+Finally the last section collects a few papers on some advanced topics, such as
+the exploitation of active learning principles to guide the acquisition of new knowledge,
+techniques suitable for making a recommender system robust against attacks
+of malicious users, and recommender systems that aggregate multiple types of user
+feedbacks and preferences to build more reliable recommendations.
+We would like to thank all authors for their valuable contributions. We would
+like to express gratitude for all reviewers that generously gave comments on drafts or
+counsel otherwise. We would like to express our special thanks to Susan LagerstromFife
+and staff members of Springer for their kind cooperation throughout the production
+of this book. Finally, we wish this handbook will contribute to the growth
+of this subject, we wish to the novices a fruitful learning path, and to those more experts
+a compelling application of the ideas discussed in this handbook and a fruitful
+Francesco Ricci
+Lior Rokach
+Bracha Shapira
+May 2010 Paul B. Kantor
+of various types to build new types and more credible recommendations.
+development of this challenging research area.
